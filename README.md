@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kylerobertchandler
-- 👀 I’m interested in data science and data analysis using Python, R, SQL, Stata and more. I'm particularly interested in machine learning and solving complex questions with statistical analysis
-- 🌱 I’m continuously seeking additional learning opportunities in my preferred languages; Python, SQL, and R
-- 💞️ I’m looking to collaborate on any projects in the above listed languages that pertain to data science, data analysis, or statistical modelling!
+- 👀 I’m interested in data science and machine learning using Python, R, SQL, Java and more. I'm particularly interested in neural networks and unsupervised learning.
+- 💞️ I’m looking to collaborate on any projects in the above listed languages that pertain to data science, machine learning, artificial intelligence, data analysis, or statistical modeling!
 - 📫 How to reach me is through email, kylerobertchandler@gmail.com
