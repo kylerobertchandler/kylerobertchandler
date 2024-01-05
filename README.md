@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kylerobertchandler
-- 👀 I’m interested in data science and machine learning using Python, R, SQL, Java, C++ and more. I'm particularly interested in neural networks, computer vision, natural language processing, image recognition, and artificial intelligence.
-- 💞️ I’m looking to collaborate on any projects in the above listed languages that pertain to data science, machine learning, artificial intelligence, data analysis, or statistical modeling!
+- 👀 I'm a software engineer with interests in back-end web development and engineering data-intensive applications. Languages include Python, JavaScript, HTML, CSS, Java and SQL
+- 💞️ I’m looking to collaborate on any projects in the above listed languages in the realm of web development.
 - 📫 How to reach me is through email, kylerobertchandler@gmail.com
